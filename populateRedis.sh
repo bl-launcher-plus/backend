@@ -1,2 +1,2 @@
 #!/bin/bash
-cat checksums.sha256 | redis-cli --pipe
+cat v21checksums.sha256 | redis-cli --pipe
